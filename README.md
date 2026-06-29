@@ -6,6 +6,8 @@
 
 请下载仓库中的：
 
+https://github.com/NeoHeee/teacher-query-system/releases/tag/windows
+
 - `师资信息查询系统-Windows单文件版.exe`
 
 下载后双击运行。程序启动后会自动打开浏览器页面。
