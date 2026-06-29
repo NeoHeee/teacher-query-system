@@ -1,0 +1,32 @@
+# Local runtime data
+/data/
+**/data/
+**/teacher_system.db
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# Backups and attachments
+**/auto_backups/
+**/attachments/
+**/backups/
+
+# Private activation tools
+*激活码生成器*.exe
+*激活工具*.zip
+teacher-query-system-license-generator/
+**/license.json
+
+# Build caches
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.tmp/
+tmp_*/
+
+# Do not publish source build payload caches
+outputs/teacher-query-system-windows/.single-exe-payload/
+outputs/teacher-query-system-windows/.single-exe-payload.zip
+outputs/teacher-query-system-windows/release/
+outputs/teacher-query-system-windows/single-exe-release/
